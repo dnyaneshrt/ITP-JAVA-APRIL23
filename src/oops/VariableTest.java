@@ -1,13 +1,13 @@
 package oops;
 
 public class VariableTest {
-    int num=111;
+    public static int num=111;
     static int num1=555;
     //instance variable:declared outside any method/constructor/block
     //Local variable: declared inside any method/constructor/block
     //static variable: declared outside any method/constructor/block with static keyword
 
-    public void displayVar()
+     void displayVar()
     {
         int num=999;
         System.out.println("inside method");
@@ -24,6 +24,5 @@ public class VariableTest {
 
         int num5=70;
         System.out.println(num5);
-
     }
 }
