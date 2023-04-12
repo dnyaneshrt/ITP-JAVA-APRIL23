@@ -1,8 +1,8 @@
-package basic_programs;
+package com.itp.basic_programs;
 
 
-import oops.ModifierTest;
-import oops.VariableTest;
+import com.itp.oops.ModifierTest;
+import com.itp.oops.VariableTest;
 
 public class First {
     public static void main(String[] args) {

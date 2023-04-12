@@ -1,4 +1,4 @@
-package oops;
+package com.itp.oops;
 
 public class ConsTest {
     //constructor is special member function whose name is exactly same as a class name.

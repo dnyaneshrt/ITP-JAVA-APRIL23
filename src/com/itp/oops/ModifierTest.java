@@ -1,4 +1,4 @@
-package oops;
+package com.itp.oops;
 class PrivateTest
 {
     {

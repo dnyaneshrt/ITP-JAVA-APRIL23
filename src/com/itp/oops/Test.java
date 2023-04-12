@@ -1,4 +1,4 @@
-package oops;
+package com.itp.oops;
 
 public class Test {
 

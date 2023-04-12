@@ -1,4 +1,4 @@
-package basic_programs;
+package com.itp.basic_programs;
 
 
 public class ArithmeticTest {
