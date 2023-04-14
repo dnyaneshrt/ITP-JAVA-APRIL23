@@ -20,7 +20,6 @@ class OppoA9 extends  OppoA5
     {
         System.out.println("32 mp camera");
     }
-
     //super keyword at variable level
     //super keyword at method level
     public void printDetails()
@@ -39,3 +38,7 @@ public class OverridingTest {
     }
 }
 //this and super keyword we can never use inside static context.
+
+//Upcasting in Java:
+//holding child class object into Parent class reference is called as Upcasting.
+//Parent p=new Child();
