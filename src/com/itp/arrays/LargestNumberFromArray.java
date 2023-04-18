@@ -8,7 +8,6 @@ public class LargestNumberFromArray {
     }
     private static int secondlargestNumber(int[] numbers) {
         int secondLargest = 0;
-
         int max=numbers[0];
         for(int i=0;i<numbers.length;i++)
         {
