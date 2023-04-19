@@ -2,7 +2,7 @@ package com.itp.abstractionAndEncapsulation;
 //abstract classes can have abstract as well as concreate methods
 //the method with no body is called as abstract method
 //upcasting
-//we can never can object of abstract class
+//we can never can object of abstract class.
 abstract class Shape
 {
     abstract void area();
