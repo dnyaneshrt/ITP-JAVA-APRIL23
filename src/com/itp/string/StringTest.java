@@ -1,4 +1,6 @@
 package com.itp.string;
+//java.lang.String.
+//java.lang is the default package in java.
 
 /*String: String is Pre-defined class in java, which acts as String Datatype.
 * it is used to hold group of characters.
