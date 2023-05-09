@@ -1,11 +1,9 @@
 package com.itp.collection;
 
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
 public class SortTest {
     public static void main(String[] args) {
         List<Student> students=new ArrayList<>();
@@ -44,7 +42,6 @@ public class SortTest {
             count++;
             System.out.println(count+"]"+s.getFirstname()+" "+s.getLastname());
         }
-
     }
 
 }
